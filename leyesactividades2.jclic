@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="leyesactividades2" version="0.1.3">
+ <settings>
+  <title>LeyesActividades2</title>
+  <revision description="created" date="7/14/20" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="1" />
+  <item name="_2" />
+  <item name="_3" />
+  <item name="_4" />
+  <item name="_12" />
+  <item name="_5" />
+  <item name="_6" />
+  <item name="_7" />
+  <item name="_8" />
+  <item name="_9" />
+  <item name="_10" />
+  <item name="_11" />
+  <item name="_13" />
+  <item name="_14" />
+  <item name="_15" />
+  <item name="_16" />
+  <item name="_17" />
+  <item name="_18" />
+  <item name="_19" />
+  <item name="_20" />
+ </sequence>
+ <activities>
+  <activity class="@panels.Explore" name="1" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿Cuándo entró en vigor el reglamento Europeo de protección de datos (Reglamento EU. 2016/679)?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>El 25 de mayo de 2016</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_10" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="300.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿Qué art. del III Convenio recoge los principios sobre las medidas sobre acoso y violencia en el lugar de trabajo y especifica las partes imprescindibles que deben componer el protocolo contra el acoso?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Art. 28.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_11" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿Qué Ley ha cambiado el sistema de entrega de las notificaciones?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Ley 39/2015</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_12" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>Tendrán la consideración de Autoridad Nacional de Reglamentación Postal:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>El Gobierno, en el ejercicio de la potestad reglamentaria.</p>
+     <p>Los órganos superiores y directivos del Ministerio de Fomento.</p>
+     <p>La CNMC</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_13" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿Dónde se recogen las normas detalladas de calidad impuestas a Correos para envíos intracomunitarios?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>En la Directiva Europea 97/67/CE.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_14" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿En qué año se incorporó Correos a Sociedad Estatal de Participaciones Industriales?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>En el 2001.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_15" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>En materia de protección de datos de carácter personal, es cierto que...</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>El día 25 de mayo de 2018 entró en vigor el Reglamento General de Protección de Datos(RGPD).</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_16" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="300.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La vigente "Ley Postal" determina que los procedimientos establecidos para la tramitación de las reclamaciones de los usuarios de los servicios postales tienen que ser...</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Gratuitos, sencillos y no discriminatorios.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_17" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La Ley 3/2013, de 4 de junio, crea un organismo público encargado de la supervisión y control del correcto funcionamiento del mercado postal, que se denomina...</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Comisión Nacional de los Mercados y la Competencia.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_18" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="400.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La obligación de todas las empresas públicas, y entre ellas Correos, de publicar de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia relacionada con el funcionamiento y control de su actividad pública, figura en:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la información y Buen Gobierno.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_19" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>Los operadores postales habilitados para prestar el servicio postal universal que también quieran prestar servicios postales no incluidos en dicho ámbito...</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Es necesario que con carácter previo al inicio de la actividad presenten a la autoridad nacional de reglamentación postal una declaración responsable.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_2" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La nueva Ley sobre protección de datos establece multas de hasta...</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>20 millones de euros.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_20" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="400.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La Comisión de Igualdad, como órgano paritario formado por representantes de la empresa y de los sindicatos firmantes, será competente para verificar la aplicación, desarrollo, seguimiento y cumplimientode los objetivos descritos en el Plan de Igualdad, regulado en el Título III del presente Convenio Colectivo. Entre sus funciones:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="400.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Negociar medidas dirigidas a promover la igualdad entre ambos géneros.</p>
+     <p>Interpretación del Plan y seguimiento de su aplicación.</p>
+     <p>Evaluar las medidas adoptadas y elaborar un informe anual donde se refleje el avance en la ejecución del Plan, y se compruebe la efectividad de las medidas puestas en marcha.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_3" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La Ley de bloqueo de la financiación del terrorismo es:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Ley 12/2003, de 21 de mayo.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_4" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La Sociedad estatal elabora su informe de gobierno corporativo conforme a los principios recogidos...</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>En el RD. 1373/2009</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_5" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="300.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>Según el Real Decreto 503/2007, de 20 de abril, por el que se regula la prestación de los servicios postales. Los plazos medios de expedición y normas de regularidad, en el ámbito nacional, para los paquetes postales serán:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="300.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>D+3 en 80% de los envíos y D+5 en el 95%.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_6" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>Ley Orgánica de protección de Datos(LOPD) es:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Ley 15/1999, de 13 de diciembre.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_7" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿Qué entidad ostenta actualmente la consideración de Autoridad Nacional de Reglamentación Postal?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>El Gobierno, la Comisión Nacional de los Mercados y la Competencia y los órganos superiores del Ministerio de Fomento.</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_8" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>La Ley de conciliación de la vida laboral y familiar es:</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>Ley 39/1999</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+  <activity class="@panels.Explore" name="_9" code="">
+   <description />
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Haz clic en el cuadro para ver la respuesta.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <image name="CTA.jpg" tiled="true" />
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="primary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell id="0">
+     <p>¿Cuál es el tiempo de permiso por el nacimiento y cuidado del menor?</p>
+    </cell>
+   </cells>
+   <cells rows="1" cols="1" cellWidth="200.0" cellHeight="200.0" border="true" id="secondary">
+    <style />
+    <shaper class="@Rectangular" cols="1" rows="1" />
+    <cell>
+     <p>8 semanas (12 a partir del 1 de enero de 2020 y 16 a partir de enero de 2021).</p>
+    </cell>
+   </cells>
+   <scramble times="31" primary="false" />
+   <layout position="AB" />
+  </activity>
+ </activities>
+ <mediaBag>
+  <media name="CTA.jpg" file="cta.jpg" />
+ </mediaBag>
+</JClicProject>
+
